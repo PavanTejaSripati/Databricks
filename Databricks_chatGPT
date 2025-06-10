@@ -1,0 +1,151 @@
+Perfect — here’s a **detailed 6-week study plan** you can follow as a **beginner** to prepare for the **Databricks Certified Data Engineer Associate** exam, starting now (June 2025), aligned with the **Virtual Learning Festival (VLF)**:
+
+---
+
+### 📅 Week 1: Spark Basics & DataFrames
+
+**Goal:** Understand Spark core concepts and DataFrame APIs
+**Sources:**
+✅ VLF → *Data Engineer Associate Learning Path* → first 1–2 courses
+✅ Databricks Academy or Docs → Spark SQL & DataFrame guide
+
+**Topics:**
+
+* Spark architecture: driver, executors, cluster manager
+* DataFrame API: transformations, actions
+* Lazy evaluation
+* Basic ETL with Spark
+
+**Time:** \~6 hours
+
+---
+
+### 📅 Week 2: Delta Lake Deep Dive
+
+**Goal:** Understand Delta Lake — core to exam!
+**Sources:**
+✅ VLF → Delta Lake module
+✅ Databricks Delta Lake docs
+
+**Topics:**
+
+* Delta Lake basics
+* ACID transactions
+* Time travel
+* Schema enforcement & evolution
+* OPTIMIZE, ZORDER commands
+
+**Time:** \~5–6 hours
+
+---
+
+### 📅 Week 3: ETL Pipelines & Incremental Processing
+
+**Goal:** Learn ETL patterns + batch vs incremental
+**Sources:**
+✅ VLF → ETL & data pipeline modules
+✅ Databricks documentation
+
+**Topics:**
+
+* Batch ETL vs streaming
+* COPY INTO vs Autoloader
+* Streaming incremental updates
+* Data ingestion patterns
+* Streaming checkpointing and guarantees
+
+**Time:** \~6 hours
+
+---
+
+### 📅 Week 4: Databricks Platform Deep Dive
+
+**Goal:** Understand the Databricks workspace & platform
+**Sources:**
+✅ VLF → Workspace, Jobs, Workflows modules
+✅ Databricks documentation
+
+**Topics:**
+
+* Databricks workspace: notebooks, clusters
+* Jobs, job clusters, workflows
+* Data governance (Unity Catalog basics)
+* Security concepts
+* Monitoring & logging
+
+**Time:** \~6 hours
+
+---
+
+### 📅 Week 5: Practice & Knowledge Gaps
+
+**Goal:** Review weak topics + practice exams
+**Sources:**
+✅ VLF → revisit any weak modules
+✅ **Practice tests:**
+
+* Databricks Academy sample questions
+* Udemy practice test (\~\$10–15, highly recommended!)
+* Free GitHub sample questions (I can give links if you want)
+
+**Activities:**
+
+* Take 1–2 full-length practice tests
+* Identify weak topics → review docs + Academy
+
+**Time:** \~6–8 hours
+
+---
+
+### 📅 Week 6: Final Review + Attempt Exam
+
+**Goal:** Final preparation and take the exam
+**Sources:**
+✅ Review all notes
+✅ Retake practice test(s)
+✅ Read "Exam Guide" from Databricks website carefully
+
+**Activities:**
+
+* Final practice test
+* Notes review
+* Schedule exam (ProctorU platform — online proctored)
+* Attempt exam confidently!
+
+**Time:** \~4–5 hours
+
+---
+
+### Total Preparation Time: \~30–35 hours across 6 weeks (\~5–8 hrs/week)
+
+---
+
+### Pro Tips:
+
+✅ Use the **VLF Learning Path fully** — it’s designed to map to the exam.
+✅ Complement with **Databricks official docs** — some topics not covered fully in VLF.
+✅ Do at least **2 practice tests** in Week 5–6 — this boosts pass rate significantly.
+✅ Use the **50% discount voucher** from VLF when ready.
+
+---
+
+### Summary Timeline:
+
+| Week | Focus                                             |
+| ---- | ------------------------------------------------- |
+| 1    | Spark Basics, DataFrames                          |
+| 2    | Delta Lake                                        |
+| 3    | ETL & Incremental Processing                      |
+| 4    | Databricks Platform (workspace, jobs, governance) |
+| 5    | Practice tests + review weak topics               |
+| 6    | Final review + take the exam                      |
+
+---
+
+If you want, I can also:
+✅ Give you the **exact VLF Learning Path link** for **Data Engineer Associate**
+✅ Suggest the **best practice test on Udemy**
+✅ Share a few **free community practice questions (GitHub)**
+
+Would you like me to generate these links & recommendations for you now?
+That way you can **start today** with full clarity 🚀. Just say **“yes”**!
