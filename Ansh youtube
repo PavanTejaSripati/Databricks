@@ -1,0 +1,98 @@
+[Databricks Tutorial (From Zero to Hero) | Azure Databricks Masterclass (4h)](https://www.youtube.com/watch?v=7pee6_Sq3VY&utm_source=chatgpt.com)
+
+---
+
+## 🎯 Overview
+
+This **4-hour comprehensive tutorial by Ansh Lamba** takes you from the absolute basics to advanced Databricks concepts. It's ideal for aspiring data engineers who want hands-on understanding of the **Databricks Lakehouse**, **PySpark**, **Delta Lake**, and more — all taught in a single, complete session. ([youtube.com][1])
+
+---
+
+## 🚀 Side Headings & Important Topics
+
+Here’s how the content is structured and the key areas you should focus on:
+
+### 1. **Introduction & Spark Architecture**
+
+* Lakehouse concept
+* Spark overview — driver vs worker nodes
+* Databricks workspace essentials
+
+### 2. **Databricks Fundamentals**
+
+* Magic commands (`%sql`, `%python`)
+* Databricks Utilities (`dbutils`)
+* Managing files in DBFS (Databricks File System)
+
+### 3. **Cloud Storage Integration**
+
+* Mounting Azure Data Lake / ADLS or AWS S3
+* Reading/writing data in various formats (CSV, JSON, Parquet)
+
+### 4. **PySpark Data Transformations**
+
+* DataFrame operations (select, filter, groupBy, join…)
+* UDFs, handling nulls, type casting
+* SQL queries within notebooks
+
+### 5. **Delta Lake Deep Dive**
+
+* Delta Lake architecture & logging
+* Versioning & Time Travel
+* Data version control, VACUUM
+* Schema enforcement & evolution
+
+### 6. **Performance Optimization**
+
+* Optimize etl: Z-ordering, file compaction
+* Delta table optimizations
+* Use cases and pragmatics
+
+### 7. **Streaming & Auto Loader**
+
+* Real-time ingestion via Auto Loader
+* Stream processing fundamentals
+* Handling micro-batches and triggers
+
+### 8. **Incremental Data Pipelines**
+
+* Patterns for upsert and incremental loads
+* `mergeSchema`, watermarking
+
+### 9. **Workflows & Job Orchestration**
+
+* Scheduling jobs and jobs API
+* Task dependencies
+* Azure Databricks Workflows
+
+### 10. **Data Governance**
+
+* Unity Catalog overview
+* Access controls: schema, table, column-level security
+
+---
+
+## ✅ How to Use this Video
+
+1. **Chunk the video** into 20–30 min sections tied to the above topics
+2. **Code along in Databricks Community Edition** as you watch
+3. **Take notes** on new PySpark syntax, Delta commands, optimization practices
+4. Focus extra on **Delta Lake**, **auto-loader**, **mergeSchema**, and **Jobs**, as these are often asked in certification and interviews
+
+---
+
+### ✅ Suggested Focus Topics for Job Prep
+
+| Topic         | Key Concepts to Master                      |
+| ------------- | ------------------------------------------- |
+| Delta Lake    | ACID, schema evolution, time travel, vacuum |
+| PySpark       | DataFrame ops, UDFs, joins, caching         |
+| Auto Loader   | Ingest streaming files, incrementally       |
+| Workflows     | Job orchestration, dependencies, scheduling |
+| Unity Catalog | Tables, schemas, column-level access        |
+
+---
+
+Would you like a **timestamped summary sheet** or a weekly tracker that aligns your practice exercises to each of these sections? Let me know—I can set it up fast!
+
+[1]: https://www.youtube.com/watch?v=7pee6_Sq3VY&utm_source=chatgpt.com "Databricks Tutorial (From Zero to Hero) | Azure Databricks Masterclass"
