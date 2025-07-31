@@ -1,2 +1,11 @@
 july 22nd - Overview_ansh youtube channel.
 July 23rd:
+July 31st: 
+ Day 1: Lakehouse Fundamentals
+Watch: Databricks Lakehouse Fundamentals video
+
+Read: Docs on Lakehouse architecture
+
+Understand: Workspaces, clusters, notebooks, DBFS, Unity Catalog
+
+✅ Practice: Create cluster, workspace, upload CSV (you already did this!)
